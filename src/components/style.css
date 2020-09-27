@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,800&display=swap');
+
+::placeholder {
+    color: #0082D4 !important;
+    font-family: 'Open Sans', sans-serif !important;
+    opacity: 1 !important;
+    font-weight: 600 !important;
+}
+
+.MuiCheckbox-colorPrimary.Mui-checked {
+    color: #0082D4 !important;
+}
+
+.formLegend {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 20px !important;
+    color: #8B9DA7 !important;
+    margin-bottom: 20px;
+}
+
+.MuiFormHelperText-root.Mui-error {
+    font-size: 16px;
+}
+
+.MuiTypography-body1 {
+   font-family: inherit
+}
