@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Description
 This is a demo Todo App.
-Stack Used - HYML, CSS, React, Redux, Material UI
+Stack Used - HTML, CSS, React, Redux, Material UI
 
 Made By- Gautam Mukoo
 
