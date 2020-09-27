@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Dexcription
+## Project Description
 This is a demo Todo App.
 Stack Used - HYML, CSS, React, Redux, Material UI
 
